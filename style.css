@@ -1,78 +1,82 @@
-.whzzy{
+.whzzy {
   background-color: white !important;
-  height:400px;
+  height: 400px;
 }
 
-.pro{
-  margin:0 auto;
-  padding:20px 20px 20px 20px;
+.pro {
+  margin: 0 auto;
+  padding: 20px 20px 20px 20px;
 }
 
-.mid{
-  margin-top:10%;
+.tagline {
+  font-size: 20px;
+  margin-bottom: 150px;
 }
 
-.blerb{
-  color:white;
-  padding:350px;
-  font-size:2em;
+.mid {
+  margin-top: 10%;
 }
 
-.hero{
-  background-image: url("./img/nmant.jpg");
-    background-repeat: no-repeat; 
+.blerb {
+  color: white;
+  padding: 350px;
+  font-size: 2em;
+}
+
+.hero {
+  background-image: url('./img/nmant.jpg');
+  background-repeat: no-repeat;
   /* background-attachment: fixed;   */
-  height:100vh;
-  width:100%;
+  height: 100vh;
+  width: 100%;
   background-size: cover;
   background-position: center;
 }
 
-body{
-  background:black;
+body {
+  background: black;
   /* #ccddff; */
- 
 }
 
-.card{
-  z-index:2;
+.card {
+  z-index: 2;
 }
 
-.r-logo{
-margin-top:-120px;
-width:10%;
-
+.r-logo {
+  margin-top: 5px;
+  margin-left: 20px;
+  width: 10%;
 }
 
-.btn-large{
+.btn-large {
   margin: 0 47%;
 }
 
 nav {
   /* background-color: transparent !important; */
-  box-shadow:none !important;
+  box-shadow: none !important;
   background-color: black !important;
 }
 
-.sicon{
-width:60px;
-color:white;
+.sicon {
+  width: 60px;
+  color: white;
 }
 
- .foot{
+.foot {
   position: fixed;
   left: 0;
-  bottom:  -20px;
+  bottom: -20px;
   width: 100%;
   background-color: black;
   color: white;
   text-align: center;
   padding: 30px 0px;
-z-index:20;
-} 
+  z-index: 20;
+}
 
-.ccc{
-  height:80px;
+.ccc {
+  height: 80px;
   margin-right: 10px;
-  width:140px;
-} 
+  width: 140px;
+}
